@@ -1,4 +1,9 @@
 a=4
 b=2
+c=1
 y=a/b
+z=b/c
+x=a/c
 print(y)
+print(z)
+print(x)
