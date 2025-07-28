@@ -1,7 +1,6 @@
 a=45
 b=45
 x=a+b
+print(x)
 print(a)
 print(b)
-print(x)
-print(x)
