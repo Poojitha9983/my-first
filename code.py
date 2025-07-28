@@ -7,4 +7,5 @@ z=a+c
 print(x)
 print(y)
 print(z)
+print(a)
 
