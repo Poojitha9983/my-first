@@ -4,3 +4,4 @@ x=a+b
 print(a)
 print(b)
 print(x)
+print(x)
